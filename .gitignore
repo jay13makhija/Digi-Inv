@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DigiInv/FileContentIndex
+/DigiInv.Api/bin/Debug/net10.0
+/DigiInv.Api/obj
+/DigiInv.Api/appsettings.Development.json
+/DigiInv.Api/appsettings.json
+/DigiInv.Api/DigiInv.Api.csproj.user
+/DigiInv.Api/Properties
+/DigiInv.Application/bin/Debug/net10.0
+/DigiInv.Application/obj
+/DigiInv.Domain/bin/Debug/net10.0
+/DigiInv.Domain/obj
+/DigiInv.Infrastructure/bin/Debug/net10.0
+/DigiInv.Infrastructure/obj
